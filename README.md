@@ -1,4 +1,4 @@
-🎵Album Manager Application
+**🎵Album Manager Application**
 
 Java | Java Swing | MySQL | JDBC | MVC | NetBeans
 
