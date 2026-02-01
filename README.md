@@ -2,7 +2,7 @@
 
 Java | Java Swing | MySQL | JDBC | MVC | NetBeans
 
-A full-fledged desktop application designed and developed using Java Swing with a MySQL backend, following industry-standard MVC and DAO architecture.
+A GUI-based application built using Java Swing with a MySQL backend, following industry-standard MVC and DAO architecture.
 
 The system enables secure user authentication and complete management of albums, tracks, artists, and users with persistent database storage.
 
